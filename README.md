@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RashmiSandamini/RashmiSandamini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Rashmi 👋
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2></h2>
+
+- 👩‍🎓 I'm a final year undergraduate at Faculty of Information Technology, University of Moratuwa.
+- 🔭 I'm currently working on my final year research project, **Exam Candidate Verification Through Handwritten Artifacts**.
+- 🌱 I’m currently experimenting with Python, TensorFlow, OpenCV and Keras.
+- ✍️ I occassionally write articles on [medium](https://medium.com/@RashmiSandamini).
+  
+ 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmiSandamini&layout=compact&theme=radical)
