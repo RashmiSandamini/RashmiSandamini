@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rashmi 👋
+## Hi, I'm Rashmi 👋
 
 </div>
 
@@ -11,18 +11,19 @@
 - 🌱 I’m currently experimenting with Python, TensorFlow, OpenCV and Keras.
 - ✍️ I occassionally write articles on [medium](https://medium.com/@RashmiSandamini).
 
-## Connect with me 
+#### Connect with me:
   <a href="https://www.linkedin.com/in/rashmisandamini">
     <img height="40" src="https://github.com/RashmiSandamini/RashmiSandamini/blob/main/linkedin_icon.png"></img>
   </a>
   
   <a href="https://srashmi.com">
-    <img height="40" src="https://github.com/RashmiSandamini/RashmiSandamini/blob/main/linkedin_icon.png"></img>
+    <img height="40" src="https://github.com/RashmiSandamini/RashmiSandamini/blob/main/website.png"></img>
   </a>
 
-    <a href="https://www.linkedin.com/in/rashmisandamini">
-    <img height="40" src="https://github.com/RashmiSandamini/RashmiSandamini/blob/main/linkedin_icon.png"></img>
+  <a href="mailto:rashmi20sandamini@gmail.com?">
+    <img height="40" src="https://github.com/RashmiSandamini/RashmiSandamini/blob/main/mail.png"></img>
   </a>
-  
+  <br><br>  
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmiSandamini&layout=compact&theme=radical)
