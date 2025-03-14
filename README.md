@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm Rashmi 👋
+# Hi, I'm Rashmi 👋
 
 </div>
 
@@ -10,7 +10,19 @@
 - 🔭 I'm currently working on my final year research project, **Exam Candidate Verification Through Handwritten Artifacts**.
 - 🌱 I’m currently experimenting with Python, TensorFlow, OpenCV and Keras.
 - ✍️ I occassionally write articles on [medium](https://medium.com/@RashmiSandamini).
+
+## Connect with me 
+  <a href="https://www.linkedin.com/in/rashmisandamini">
+    <img height="40" src="https://github.com/RashmiSandamini/RashmiSandamini/blob/main/linkedin_icon.png"></img>
+  </a>
   
- 
+  <a href="https://srashmi.com">
+    <img height="40" src="https://github.com/RashmiSandamini/RashmiSandamini/blob/main/linkedin_icon.png"></img>
+  </a>
+
+    <a href="https://www.linkedin.com/in/rashmisandamini">
+    <img height="40" src="https://github.com/RashmiSandamini/RashmiSandamini/blob/main/linkedin_icon.png"></img>
+  </a>
+  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmiSandamini&layout=compact&theme=radical)
