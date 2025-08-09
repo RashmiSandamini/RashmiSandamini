@@ -33,5 +33,3 @@
 <a href="mailto:rashmi20sandamini@gmail.com?" target="blank"><img align="center" src="https://github.com/RashmiSandamini/RashmiSandamini/blob/main/email_icon.png" alt="mailto:rashmi20sandamini@gmail.com?" height="45" width="40"/></a>
 </p>
 <br>  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmiSandamini&layout=compact&theme=radical)
