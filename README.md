@@ -7,6 +7,7 @@
 - 👩‍🎓 I'm a final year undergraduate at Faculty of Information Technology, University of Moratuwa.
 - 🔭 I have completed my final year research project, **Exam Candidate Verification Through Handwritten Artifacts**.
 - 🌱 I’ve been working with Python, TensorFlow, OpenCV, Keras and Pytorch throughout my research project.
+- 🛠️ I’m currently developing a URL shortener application while also following a Linux course.
 - ✍️ I occassionally write articles on [medium](https://medium.com/@RashmiSandamini).
 
 #### Tools and Technologies I have used and learned:
